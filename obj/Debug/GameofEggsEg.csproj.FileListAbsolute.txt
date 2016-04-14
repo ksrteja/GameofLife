@@ -1,0 +1,6 @@
+c:\users\teja\documents\visual studio 2013\Projects\GameofEggsEg\GameofEggsEg\bin\Debug\GameofEggsEg.exe.config
+c:\users\teja\documents\visual studio 2013\Projects\GameofEggsEg\GameofEggsEg\bin\Debug\GameofEggsEg.exe
+c:\users\teja\documents\visual studio 2013\Projects\GameofEggsEg\GameofEggsEg\bin\Debug\GameofEggsEg.pdb
+c:\users\teja\documents\visual studio 2013\Projects\GameofEggsEg\GameofEggsEg\obj\Debug\GameofEggsEg.csprojResolveAssemblyReference.cache
+c:\users\teja\documents\visual studio 2013\Projects\GameofEggsEg\GameofEggsEg\obj\Debug\GameofEggsEg.exe
+c:\users\teja\documents\visual studio 2013\Projects\GameofEggsEg\GameofEggsEg\obj\Debug\GameofEggsEg.pdb

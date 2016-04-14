@@ -1,0 +1,12 @@
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofEggsEg\GameofEggsEg\bin\Debug\GameofEggsEg.exe.config
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofEggsEg\GameofEggsEg\bin\Debug\GameofEggsEg.exe
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofEggsEg\GameofEggsEg\bin\Debug\GameofEggsEg.pdb
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofEggsEg\GameofEggsEg\obj\Debug\GameofEggsEg.exe
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofEggsEg\GameofEggsEg\obj\Debug\GameofEggsEg.pdb
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofEggsEg\GameofEggsEg\obj\Debug\GameofLifeEg.csprojResolveAssemblyReference.cache
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofLifeEg\GameofLifeEg\bin\Debug\GameofEggsEg.exe.config
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofLifeEg\GameofLifeEg\bin\Debug\GameofEggsEg.exe
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofLifeEg\GameofLifeEg\bin\Debug\GameofEggsEg.pdb
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofLifeEg\GameofLifeEg\obj\Debug\GameofLifeEg.csprojResolveAssemblyReference.cache
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofLifeEg\GameofLifeEg\obj\Debug\GameofEggsEg.exe
+C:\Users\teja\Documents\Visual Studio 2013\Projects\GameofLifeEg\GameofLifeEg\obj\Debug\GameofEggsEg.pdb
